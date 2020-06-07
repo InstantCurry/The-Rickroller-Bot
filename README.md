@@ -38,4 +38,4 @@ This will run on all major operating systems, but the installation instructions 
 
 4. invite the bot to your server with scope "bot", and permissions "send messages".
 
-  if you've got no idea what any of that means, just paste https://discord.com/api/oauth2/authorize?client_id= {id here} &permissions=2048&scope=bot into your web browser, where id here is your client ID from earlier.
+  if you've got no idea what any of that means, just paste `https://discord.com/api/oauth2/authorize?client_id= {id here} &permissions=2048&scope=bot` into your web browser, where id here is your client ID from earlier.
